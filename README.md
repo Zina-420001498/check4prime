@@ -8,5 +8,4 @@ To restore nuget packkage added the following to the check4prime.csproj:
   <ItemGroup>
     <PackageReference Include="PrimeService" Version="0.1.0" />
   </ItemGroup>
-  
-  
+   
